@@ -1,4 +1,4 @@
-# tic tac toe game \
+# tic tac toe game 
 This project was created as a turorial for myself to learn about React and more. 
 
 # Getting Started with Create React App
